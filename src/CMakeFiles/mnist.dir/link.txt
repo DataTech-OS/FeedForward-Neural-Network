@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++14 -g   CMakeFiles/mnist.dir/main.cpp.o CMakeFiles/mnist.dir/mnist.cpp.o CMakeFiles/mnist.dir/network.cpp.o  -o mnist -rdynamic 

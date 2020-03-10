@@ -1,0 +1,3 @@
+/home/kiki/development/MNIST_handwritten_digits/src/CMakeFiles/rebuild_cache.dir
+/home/kiki/development/MNIST_handwritten_digits/src/CMakeFiles/edit_cache.dir
+/home/kiki/development/MNIST_handwritten_digits/src/CMakeFiles/mnist.dir
